@@ -90,6 +90,3 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 ## License
 
 This project is licensed under the MIT License.
-```
-
-This `README.md` file provides a comprehensive overview of the package, installation instructions, usage examples, and descriptions of the classes and their methods. Adjust the content as needed to better fit your project's specific requirements.
